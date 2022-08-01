@@ -1,0 +1,4 @@
+deployment:
+  image: "berfinduru/python_first_hello"
+  tag: "v0.2"
+name: flask-pod
